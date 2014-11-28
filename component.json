@@ -1,0 +1,8 @@
+{
+    "name": "angular-node",
+    "scripts": ["main.js"],
+    "paths": ["lib"],
+    "locals": [
+        "app"
+    ]
+}
